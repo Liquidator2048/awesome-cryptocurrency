@@ -51,7 +51,7 @@
     - [Youtube Video](https://www.youtube.com/watch?v=xp3iExgYoCQ) - Coinbase Pro - Primo sguardo alla piattaforma | Acquisizione Paradex e futuro dell'Exchange
 
 - [Conio](https://link.conio.com/OXLQHrTUTW)
-    - [Youtube Video](https://www.youtube.com/watch?v=yJ494YHqzm8) - Bybit Exchange Tutorial - Come funziona? | MARGIN TRADING e Conto DEMO Bitcoin
+    - [Youtube Video](https://www.youtube.com/watch?v=yJ494YHqzm8) - Comprare, Vendere e Conservare Bitcoin nel modo più FACILE e SICURO, anche con POSTEPAY - Conio
 
 - [Crypto.com](https://crypto.com/exch/thecryptogateway)
     - [Youtube Video](https://www.youtube.com/watch?v=hy26JcNVyjQ) - CRYPTO.COM EXCHANGE (Syndicate, Supercharger, Staking): Recensione e Guida COMPLETA
