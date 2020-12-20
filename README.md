@@ -74,12 +74,12 @@
 - [Freqtrade](https://www.freqtrade.io) - Software per trading algoritmico su mercati spot - Python
     - [Frequi](https://github.com/freqtrade/frequi) - UI per Freqtrade
 - [OctoBot](https://github.com/Drakkar-Software/OctoBot) Software per trading algoritmico anche su derivati - Node.js
-- [Jesse](https://docs.jesse.trade/) -  Software per trading algoritmico su mercati spot - Python
+- [Jesse](https://jesse.trade/) -  Backtest e live trading su Binance, Binance Futures, Bitfinex e Coinbase - Python
 - [Backtrader](https://www.backtrader.com/) - Software per trading algoritmico su vari mercati ( nessuno supporto ufficiale per gli exchange di criptovalute ) - Python
     - [OmegaUI](https://github.com/OmegaTrading/OmegaUI) - UI per Backtrader
     - [bt-ccxt-store](https://github.com/Dave-Vallance/bt-ccxt-store) - esempio ( non più mantenuto ) di supporto ad exchange di criptovalute tramite [ccxt](https://github.com/ccxt/ccxt)
 - [Hummingbot](https://hummingbot.io/) - Software per liquidity mining, arbitrage - Python
-- [Frostybot-JS](https://github.com/CryptoMF/frostybot-js) - Eseguire ordini su Exchange tramite Webhook ( per esempio da Tradingview )
+- [Frostybot-JS](https://github.com/CryptoMF/frostybot-js) - Eseguire ordini su Exchange tramite Webhook ( per esempio da Tradingview ) - Node.js
 
 ### Trading Automatico - Servizi
 
@@ -101,6 +101,9 @@
 - [Crypto Screener](https://www.tradingview.com/crypto-screener/) - Scanner di Mercato Criptovalute
     - [Youtube Video](https://www.youtube.com/watch?v=xBZlcC0VpNk) - Scanner di Mercato Criptovalute gratuito - Segnali, Alerts, Rilevatore di Pump
 - [Aggr.Trade](https://aggr.trade/)
+- [Trdr](https://www.trdr.io)
+- [Scalpex Index](https://scalpexindex.com/app/)
+- [txstats.com](https://txstats.com)
 - [Tradeblock](https://tradeblock.com)
 - [Coinmarketcap](https://coinmarketcap.com/)
 - [Coin.Market](https://coin.market/)
@@ -108,7 +111,7 @@
 
 
 ## Misc
-
+- [Trader Dante - Free Content](https://trader-dante.com/educational-material/#free)
 - [Option Strategies](https://www.optionsplaybook.com/option-strategies/) - strategie per opzioni
     - [Youtube Video](https://www.youtube.com/watch?v=33sxnwNSXQU) - Bitcoin: Strategie di Trading con le OPZIONI
 - [Dollar Cost Averaging Into Bitcoin](https://dcabtc.com/)
