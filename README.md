@@ -69,15 +69,17 @@
 
 ### Trading Automatico - Self-Hosted Software
 
-- [Freqtrade](https://www.freqtrade.io) - Software per trading algoritmico su mercati spot - Self-Hosted - Python
-- [OctoBot](https://github.com/Drakkar-Software/OctoBot) Software per trading algoritmico anche su derivati - Self-Hosted - Node.js
-- [Jesse](https://docs.jesse.trade/) -  Software per trading algoritmico su mercati spot - Self-Hosted - Python
-- [Backtrader](https://www.backtrader.com/) - Software per trading algoritmico su vari mercati ( nessuno supporto ufficiale per gli exchange di criptovalute )
+- [Freqtrade](https://www.freqtrade.io) - Software per trading algoritmico su mercati spot - Python
+    - [Frequi](https://github.com/freqtrade/frequi) - UI per Freqtrade
+- [OctoBot](https://github.com/Drakkar-Software/OctoBot) Software per trading algoritmico anche su derivati - Node.js
+- [Jesse](https://docs.jesse.trade/) -  Software per trading algoritmico su mercati spot - Python
+- [Backtrader](https://www.backtrader.com/) - Software per trading algoritmico su vari mercati ( nessuno supporto ufficiale per gli exchange di criptovalute ) - Python
     - [OmegaUI](https://github.com/OmegaTrading/OmegaUI) - UI per Backtrader
     - [bt-ccxt-store](https://github.com/Dave-Vallance/bt-ccxt-store) - esempio ( non più mantenuto ) di supporto ad exchange di criptovalute tramite [ccxt](https://github.com/ccxt/ccxt)
-- [hummingbot](https://hummingbot.io/) - Software per liquidity mining, arbitrage - Self-Hosted - Python
+- [Hummingbot](https://hummingbot.io/) - Software per liquidity mining, arbitrage - Python
+- [Frostybot-JS](https://github.com/CryptoMF/frostybot-js) - Eseguire ordini su Exchange tramite Webhook ( per esempio da Tradingview )
 
 ### Trading Automatico - Servizi
 
-- [tv-hub](https://www.tv-hub.org/) - Eseguire ordini su Exchange tramite alert di TradingView
-- [tuned](https://tuned.com/) - Piattaforma per creazione ed esecuzione di strategie personalizzate ( supporto "base" anche per pinescript )
+- [TV-Hub](https://www.tv-hub.org/) - Eseguire ordini su Exchange tramite alert di TradingView
+- [Tuned](https://tuned.com/) - Piattaforma per creazione ed esecuzione di strategie personalizzate ( supporto "base" anche per pinescript )
