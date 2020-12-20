@@ -3,7 +3,7 @@
 ## Contents
 
 - [Exhanges](#exchanges)
-
+- [Trading Automatico](#trading-automatico)
 
 ## Exchanges
 
@@ -28,7 +28,7 @@
     - [Youtube Video](https://www.youtube.com/watch?v=3WBLpLqiqnA) - Binance DEX & Binance Chain: Proviamoli insieme in Anteprima! (sulla Testnet)
 
 - [Bitmex](https://bit.ly/BitMEXExchange) - Exchange di derivati
-	- [Youtube Playlist](https://www.youtube.com/watch?v=6u5CMumepaM&list=PLhhAltp0qPbYF4bAdKiiC4wHRcNksYooK) - BitMEX: Corso completo in Italiano - Da principianti ad Esperti
+    - [Youtube Playlist](https://www.youtube.com/watch?v=6u5CMumepaM&list=PLhhAltp0qPbYF4bAdKiiC4wHRcNksYooK) - BitMEX: Corso completo in Italiano - Da principianti ad Esperti
     - [Youtube Video](https://www.youtube.com/watch?v=TH6PO18EbAI) - Bitcoin FUTURES: Qual è il MIGLIOR exchange? (Binance vs BitMEX vs ByBit vs Deribit)
 
 - [Bitpanda](https://bit.ly/Bitpanda_Exchange)
@@ -65,4 +65,19 @@
 - [OkEX](https://www.okex.com/join/1910465) - Exchange derivati
     - [Youtube Video](https://www.youtube.com/watch?v=hYFJ_1yY_jc) - OkEX: il MIGLIORE EXCHANGE per il Trading con LEVA di ALTCOINS (e non solo!)
 
+## Trading Automatico
 
+### Trading Automatico - Self-Hosted Software
+
+- [Freqtrade](https://www.freqtrade.io) - Software per trading algoritmico su mercati spot - Self-Hosted - Python
+- [OctoBot](https://github.com/Drakkar-Software/OctoBot) Software per trading algoritmico anche su derivati - Self-Hosted - Node.js
+- [Jesse](https://docs.jesse.trade/) -  Software per trading algoritmico su mercati spot - Self-Hosted - Python
+- [Backtrader](https://www.backtrader.com/) - Software per trading algoritmico su vari mercati ( nessuno supporto ufficiale per gli exchange di criptovalute )
+    - [OmegaUI](https://github.com/OmegaTrading/OmegaUI) - UI per Backtrader
+    - [bt-ccxt-store](https://github.com/Dave-Vallance/bt-ccxt-store) - esempio ( non più mantenuto ) di supporto ad exchange di criptovalute tramite [ccxt](https://github.com/ccxt/ccxt)
+- [hummingbot](https://hummingbot.io/) - Software per liquidity mining, arbitrage - Self-Hosted - Python
+
+### Trading Automatico - Servizi
+
+- [tv-hub](https://www.tv-hub.org/) - Eseguire ordini su Exchange tramite alert di TradingView
+- [tuned](https://tuned.com/) - Piattaforma per creazione ed esecuzione di strategie personalizzate ( supporto "base" anche per pinescript )
