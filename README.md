@@ -4,8 +4,8 @@
 
 - [Exchanges](#exchanges)
 - [Trading Automatico](#trading-automatico)
-- [Grafici e Dati][#grafici-e-dati]
-- [Misc.][#misc]
+- [Grafici e Dati](#grafici-e-dati)
+- [Misc.](#misc)
 
 ## Exchanges
 
@@ -92,20 +92,28 @@
 - [Skew](https://www.skew.com) - statistiche su future, opzioni, DEFI, e altre informazioni di mercato - free/no login
 - [Gocharting](https://gocharting.com) - chart di molti assets cripto con una grande varietà di strumenti ( alternativa a Tradingview ) - free/no login
 - [Tradinglite](https://tradinglite.com/) - grafici heatmap in tempo reale ( public beta, accesso richiedibile tramite canale discord del progetto ) - paid
-- [Bookmap](https://bookmap.com/) - software di visualizzazione heatmap - [tutorial](https://www.youtube.com/watch?v=RZ33_8ScDZ4) - freeware
+- [Bookmap](https://bookmap.com/) - software di visualizzazione heatmap - freeware
+    - [Youtube Video](https://www.youtube.com/watch?v=RZ33_8ScDZ4) - Bitcoin: SCALPING sull'Order Book e Trading ad alta frequenza con BOOKMAP
 - [Tensorcharts](https://www.tensorcharts.com/) - grafici heatmap con indicatori avanzati e visualizzazione in tempo reale - free/no login
 - [Exocharts](https://exocharts.com/) - strumenti avanzati per l'analisi dei volumi su XBTUSD ( Bitmex ) - free trial
 - [Coin360](https://coin360.com) -  il treemapping di finviz.com ma per le cripto. Interessante anche il liquidity book dove è possibile trovare l'exchange più conveniente in base alla liquidità di esso - free/no login
 - [Bitnodes - Nodes Live Map](https://bitnodes.earn.com/nodes/live-map/) - live map dei nodi della blockchain bitcoin - free/no login
-- [Crypto Screener](https://www.tradingview.com/crypto-screener/) - [tutorial](https://www.youtube.com/watch?v=xBZlcC0VpNk)
+- [Crypto Screener](https://www.tradingview.com/crypto-screener/) - Scanner di Mercato Criptovalute
+    - [Youtube Video](https://www.youtube.com/watch?v=xBZlcC0VpNk) - Scanner di Mercato Criptovalute gratuito - Segnali, Alerts, Rilevatore di Pump
+- [Aggr.Trade](https://aggr.trade/)
 - [Tradeblock](https://tradeblock.com)
 - [Coinmarketcap](https://coinmarketcap.com/)
 - [Coin.Market](https://coin.market/)
 - [Smartbit Charts](https://www.smartbit.com.au/charts)
 
-# Misc
-- [Option Strategies](https://www.optionsplaybook.com/option-strategies/) - strategie per opzioni - [tutorial](https://www.youtube.com/watch?v=33sxnwNSXQU)
-- [Rektop](https://app.rek.to/) - liquidazioni Bitmex - free/no login
+
+## Misc
+
+- [Option Strategies](https://www.optionsplaybook.com/option-strategies/) - strategie per opzioni
+    - [Youtube Video](https://www.youtube.com/watch?v=33sxnwNSXQU) - Bitcoin: Strategie di Trading con le OPZIONI
+- [Dollar Cost Averaging Into Bitcoin](https://dcabtc.com/)
+- [Option Strategy Payoff Calculator](https://www.macroption.com/option-strategy-payoff-calculator/)
+- [Rekto](https://app.rek.to/) - liquidazioni Bitmex - free/no login
 - [Fear & Greed Index](https://alternative.me/crypto/fear-and-greed-index/) - indice e storico del sentiment basato sull'andamento del mercato, sentimento social, etc.. - free/no login
 - [Bitkey](https://bitkey.io/) - wallet su live cd - effettuare transazioni Bitcoin senza lasciare traccia su hard-disk - free/opensource
 - [Bitcoin Mining Calculator](https://cryptomining.tools/bitcoin-mining-calculator) - calcolatrice di profitto per mining bitcoin - free/no login
