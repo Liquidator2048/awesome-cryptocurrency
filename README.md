@@ -85,6 +85,8 @@
 
 - [TV-Hub](https://www.tv-hub.org/) - Eseguire ordini su Exchange tramite alert di TradingView
 - [Tuned](https://tuned.com/) - Piattaforma per creazione ed esecuzione di strategie personalizzate ( supporto "base" anche per pinescript )
+- [HaasOnline](https://www.haasonline.com/)
+- [Wunderbit](https://trading.wunderbit.co/)
 
 
 ## Grafici e Dati
