@@ -80,6 +80,7 @@
     - [bt-ccxt-store](https://github.com/Dave-Vallance/bt-ccxt-store) - esempio ( non più mantenuto ) di supporto ad exchange di criptovalute tramite [ccxt](https://github.com/ccxt/ccxt)
 - [Hummingbot](https://hummingbot.io/) - Software per liquidity mining, arbitrage - Python
 - [Frostybot-JS](https://github.com/CryptoMF/frostybot-js) - Eseguire ordini su Exchange tramite Webhook ( per esempio da Tradingview ) - Node.js
+- [Lean](https://www.quantconnect.com/lean/)
 
 ### Trading Automatico - Servizi
 
