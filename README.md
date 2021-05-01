@@ -11,7 +11,7 @@
 
 ## Exchanges
 
-> tutti i referal link sono presi dal canale [The Crypto Gateway - Investire in Criptovalute](https://www.youtube.com/channel/UC9X2f4pVXSNzsJ2c6ZQVqBQ)
+> NOTA BENE: tutti i referal link sono presi dal canale [The Crypto Gateway - Investire in Criptovalute](https://www.youtube.com/channel/UC9X2f4pVXSNzsJ2c6ZQVqBQ)
 
 - [Binance](https://bit.ly/BinanceSconto20) - Exchange Spot e Fiat Gateway - Sconto 20% sulle Fees per sempre con il reflink
     - [Youtube Video](https://www.youtube.com/watch?v=DKoWQ0TUSIU) - Dove COMPRARE BITCOIN in EURO? (AGGIORNATO 2020) - I Migliori Exchange
@@ -57,6 +57,7 @@
 
 - [Crypto.com](https://crypto.com/exch/thecryptogateway)
     - [Youtube Video](https://www.youtube.com/watch?v=hy26JcNVyjQ) - CRYPTO.COM EXCHANGE (Syndicate, Supercharger, Staking): Recensione e Guida COMPLETA
+    - [Youtube Video](https://www.youtube.com/watch?v=WvsNYb2Ote0) - COME GUADAGNARE CON CRYPTO.COM | 6 Metodi di RENDITA PASSIVA (DeFi, Earn)
 
 - [The Rock Trading](https://bit.ly/TheRockTrading) - Acquisto e Vendita BTC in Euro
     - [Yotube Video](https://www.youtube.com/watch?v=BbaAkI4FpSQ) - Come COMPRARE e VENDERE BITCOIN e Crypto su The Rock Trading - Tutorial COMPLETO
@@ -123,7 +124,8 @@
 - [Coinmarketcap](https://coinmarketcap.com/)
 - [Coin.Market](https://coin.market/)
 - [Smartbit Charts](https://www.smartbit.com.au/charts)
-
+- [Coingecko](https://www.coingecko.com/)
+- [Coinalyze](https://coinalyze.net)
 
 ## Misc
 - [Trader Dante - Free Content](https://trader-dante.com/educational-material/#free)
@@ -137,3 +139,23 @@
 - [Bitcoin Mining Calculator](https://cryptomining.tools/bitcoin-mining-calculator) - calcolatrice di profitto per mining bitcoin - free/no login
 - [ASIC Miner Value](https://www.asicminervalue.com/) - calcolo della profittabilità degli ASIC - free/no login
 - [The CryptoBubble](https://thecryptobubble.com/) - LOL
+
+
+## Monitor wallet e investimenti
+
+> grazie a [@caronja#9732](https://discord.com/channels/403521496737120256/812793098291511377/837938033000841216) per aver fornito la maggior parte dei link.
+
+- [vfat.tools](https://vfat.tools) - really awesome!
+  - [Yield Farming Info](https://yieldfarming.info/)
+- [Zapper](https://zapper.fi)
+- [Safe BSC Farm](https://safebsc.finance)
+- [farm.army](https://farm.army)
+- [0xtracker](https://0xtracker.app)
+- [growing.fi](https://www.growing.fi)
+- [Yieldwatch](https://www.yieldwatch.net)
+- [Ape Board](https://apeboard.finance)
+- [Farmfol](https://farmfol.io)
+- [DeBank](https://debank.com)
+- [Zerion](https://zerion.io/)
+    - [Zerion Android App](https://play.google.com/store/apps/details?id=io.zerion.android)
+    - [Zerion iOS](https://apps.apple.com/us/app/zerion-defi-portfolio/id1456732565)
