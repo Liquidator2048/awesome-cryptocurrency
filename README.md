@@ -1,11 +1,13 @@
 # Awesome Criptovalute
 
+
 ## Contents
 
 - [Exchanges](#exchanges)
 - [Trading Automatico](#trading-automatico)
 - [Grafici e Dati](#grafici-e-dati)
 - [Misc.](#misc)
+
 
 ## Exchanges
 
@@ -67,6 +69,7 @@
 - [OkEX](https://www.okex.com/join/1910465) - Exchange derivati
     - [Youtube Video](https://www.youtube.com/watch?v=hYFJ_1yY_jc) - OkEX: il MIGLIORE EXCHANGE per il Trading con LEVA di ALTCOINS (e non solo!)
 
+
 ## Trading Automatico
 
 ### Trading Automatico - Self-Hosted Software
@@ -88,6 +91,15 @@
 - [Tuned](https://tuned.com/) - Piattaforma per creazione ed esecuzione di strategie personalizzate ( supporto "base" anche per pinescript )
 - [HaasOnline](https://www.haasonline.com/)
 - [Wunderbit](https://trading.wunderbit.co/)
+
+### Trading Automatico - Risorse per sviluppatori
+
+- [FinTA](https://github.com/peerchemist/finta) - Calcolo di indicatori di analisi tecnica in Python
+- [tulipindicators](https://tulipindicators.org) - Alternativa a [TA-Lib](http://ta-lib.org) con wrapper in vari linguaggi
+- [python TA-Lib](https://github.com/mrjbq7/ta-lib) - Wrapper per Python di [TA-Lib](http://ta-lib.org)
+- [ccxt](https://github.com/ccxt/ccxt) - Libreria multi-linguaggio per interaggire con diversi exchange
+- [DX Analytics](https://dx-analytics.com/index.html) - Libreria per analisi finanziaria del portafoglio in Python
+- [statsmodel](https://www.statsmodels.org) - Libreria per analisi di modelli statistici in Python
 
 
 ## Grafici e Dati
