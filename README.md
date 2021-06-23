@@ -7,7 +7,8 @@
 - [Trading Automatico](#trading-automatico)
 - [Grafici e Dati](#grafici-e-dati)
 - [Misc.](#misc)
-
+- [Monitor wallet e investimenti](#monitor-wallet-e-investimenti)
+- [Blockchain](#blockchain)
 
 ## Exchanges
 
@@ -159,3 +160,11 @@
 - [Zerion](https://zerion.io/)
     - [Zerion Android App](https://play.google.com/store/apps/details?id=io.zerion.android)
     - [Zerion iOS](https://apps.apple.com/us/app/zerion-defi-portfolio/id1456732565)
+
+
+## Blockchain
+
+- [A from-scratch tour of Bitcoin in Python](https://karpathy.github.io/2021/06/21/blockchain/)
+- [Bitcoins the hard way: Using the raw Bitcoin protocol](http://www.righto.com/2014/02/bitcoins-hard-way-using-raw-bitcoin.html)
+- [Mining Bitcoin with pencil and paper: 0.67 hashes per day](https://www.righto.com/2014/09/mining-bitcoin-with-pencil-and-paper.html) - [Mining Bitcoin With Pencil and Paper](https://gizmodo.com/mining-bitcoin-with-pencil-and-paper-1640353309)
+- [A peek under Bitcoin's hood](https://www.samlewis.me/2017/06/a-peek-under-bitcoins-hood/)
